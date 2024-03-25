@@ -19,9 +19,8 @@ dataset, which provides satellite images. Then, I defined the area I wanted to s
 **Question 3:** For this question, I followed the steps of previous question with one exception. I constructed the False color composite image by selecting the Near-infrared(B8), Red(B4), Green(B3) bands. False color composite is most commonly used to assess plant density and health, as plants reflect near infrared and green light, while absorbing red. Since they reflect more near infrared than green, plant-covered land appears deep red. Denser plant growth is darker red. Cities and exposed ground are gray or tan, and water appears blue or black. 
 
 
-*   [GEE link](https://code.earthengine.google.com/6cc182ce16a75478b8116b8206d0e099)
+*   [GEE link](https://code.earthengine.google.com/e0441d10e6f6ddd4ce7bc41705264c87)
 *   [GitHub file link](https://github.com/t-anikaa/Session-10-Assignment/blob/main/Q%26A%5B3%5D.js)
-![Capture(3)](https://github.com/t-anikaa/Session-10-Assignment/assets/161161157/2844c877-fba5-48a7-b751-79a74203e6c9)
-
-
+![Capture 3](https://github.com/t-anikaa/Session-10-Assignment/assets/161161157/e6250541-d3c0-40d4-89ba-749c1ca3b608)
+    
 
