@@ -9,7 +9,7 @@ print(myRegion);
 Map.addLayer(myRegion,{}, "Tekaf");
 Map.centerObject(myRegion);
 
-//Selecting Sentinel 2 Image Collection & making RGB composite of my upazila:
+//Selecting Sentinel 2 Image Collection & making False color composite of my upazila:
 var s1 = ee.ImageCollection("COPERNICUS/S2_SR_HARMONIZED")
            .filterDate("2023-01-01","2023-02-01")
            .filterBounds(myRegion)
