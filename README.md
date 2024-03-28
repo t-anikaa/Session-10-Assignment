@@ -4,7 +4,7 @@ dataset, which provides satellite images. Then, I defined the area I wanted to s
 
 
 *   [GEE link](https://code.earthengine.google.com/5a5e54173921c0202571d64a724fe50e)
-*   [GitHub file link](https://github.com/t-anikaa/Session-10-Assignment/blob/main/Q%26A%5B1%5D.js)
+*   [Code file link](https://github.com/t-anikaa/Session-10-Assignment/blob/main/Q%26A%5B1%5D.js)
 ![Capture(1)](https://github.com/t-anikaa/Session-10-Assignment/assets/161161157/01618cb4-ae35-4648-a7ae-928352325b58)
 
 
@@ -12,7 +12,7 @@ dataset, which provides satellite images. Then, I defined the area I wanted to s
 
 
 *   [GEE link](https://code.earthengine.google.com/7cb6e4eb266645a17cb13e8b1dbe9f14)
-*   [GitHub file link](https://github.com/t-anikaa/Session-10-Assignment/blob/main/Q%26A%5B2%5D.js)
+*   [Code file link](https://github.com/t-anikaa/Session-10-Assignment/blob/main/Q%26A%5B2%5D.js)
 ![Capture(2)](https://github.com/t-anikaa/Session-10-Assignment/assets/161161157/d3852d2f-5e37-4e91-bf91-5feacc8d9c0d)
 
 
@@ -20,7 +20,7 @@ dataset, which provides satellite images. Then, I defined the area I wanted to s
 
 
 *   [GEE link](https://code.earthengine.google.com/e0441d10e6f6ddd4ce7bc41705264c87)
-*   [GitHub file link](https://github.com/t-anikaa/Session-10-Assignment/blob/main/Q%26A%5B3%5D.js)
+*   [Code file link](https://github.com/t-anikaa/Session-10-Assignment/blob/main/Q%26A%5B3%5D.js)
 ![Capture 3](https://github.com/t-anikaa/Session-10-Assignment/assets/161161157/e6250541-d3c0-40d4-89ba-749c1ca3b608)
     
 
